@@ -5,6 +5,6 @@ public class test22 {
         System.out.println("master test");
         System.out.println("hot-fix test");
         System.out.println("oush test");
-        System.out.println("oush test");
+        System.out.println("pull test");
     }
 }
